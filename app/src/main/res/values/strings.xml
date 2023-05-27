@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">TuneTrades</string>
+    <string name="home">Home</string>
+    <string name="cart">Cart</string>
+    <string name="account">Account</string>
+    <string name="price">Rp. %d</string>
+    <string name="add_to_cart">Add to Cart: Rp. %d</string>
+    <string name="total">Grand Total:</string>
+    <string name="back">Back</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+    <string name="header">Music Instrument</string>
+    <string name="search_bar">Search Instrument</string>
+    <string name="checkout">Checkout: %d</string>
+    <string name="checkout_header">Checkout</string>
+    <string name="nama">Mochammad Rizky Ifku Syoba</string>
+    <string name="email">ifkusyobaa@gmail.com</string>
+
+    <!--Product Description-->
+    <string name="description_violin">The violin is a four-stringed instrument from the string family. It is played with a bow, producing a wide range of melodic and expressive tones. The violin is known for its versatile nature, being a prominent instrument in classical music, as well as various other genres.</string>
+    <string name="description_viola">Similar to the violin, the viola is a string instrument that is slightly larger in size. It has a deeper and mellower tone compared to the violin. The viola plays an essential role in orchestral and chamber music, often providing harmony and supporting the melody.</string>
+    <string name="description_cello">The cello, also known as the violoncello, is a larger member of the string family. It is played while seated, with the instrument held between the players legs. The cello produces rich and resonant tones, often used for expressive and emotive melodies in classical music and other genres.</string>
+    <string name="description_bass">The double bass is the largest and lowest-pitched instrument in the string family. It is played while standing or seated, with the instrument held upright on the floor. The double bass produces deep and resonant tones, often used to provide the bassline in classical music, jazz, and other genres.</string>
+    <string name="description_harp">The harp is a multi-stringed instrument with a triangular frame and strings of varying lengths. It is played by plucking the strings with fingers or using small handheld devices called "harpsicles." The harp produces a heavenly and ethereal sound, often associated with angelic or celestial themes.</string>
+    <string name="description_flute">The flute is a woodwind instrument that is played by blowing across the edge of a mouthpiece. It has a bright and clear tone and is capable of playing a wide range of melodies. The flute is commonly used in orchestras, concert bands, and various styles of music, including classical, folk, and jazz.</string>
+    <string name="description_oboe">The oboe is a woodwind instrument that is played by blowing air through a double reed. It has a warm and expressive tone, often used in orchestras, concert bands, and various styles of music, including classical, jazz, and folk.</string>
+    <string name="description_clarinet">The clarinet is a woodwind instrument that is played by blowing air through a mouthpiece and pressing keys to change the pitch. It has a warm and expressive tone, often used in orchestras, concert bands, and various styles of music, including classical, jazz, and folk.</string>
+    <string name="description_bassoon">The bassoon is a woodwind instrument that is played by blowing air through a double reed. It has a deep and rich tone, often used in orchestras, concert bands, and various styles of music, including classical, jazz, and folk.</string>
+    <string name="description_trumpet">The trumpet is a brass instrument with a bright and powerful sound. It is played by buzzing the lips into a cup-shaped mouthpiece, producing a piercing and resonant tone. The trumpet is commonly used in orchestras, jazz bands, and various styles of popular music.</string>
+    <string name="description_french">The French horn is a brass instrument with a coiled tube and a wide bell. It has a warm and mellow tone and is known for its versatility and expressive capabilities. The French horn plays a vital role in orchestras and is also featured in brass ensembles and chamber music.</string>
+    <string name="description_trombone">The trombone is a brass instrument with a deep and rich sound. It is played by buzzing the lips into a cup-shaped mouthpiece, producing a resonant and expressive tone. The trombone is commonly used in orchestras, jazz bands, and various styles of popular music.</string>
+    <string name="description_tuba">The tuba is the largest and lowest-pitched instrument in the brass family. It produces deep and resonant tones, providing a strong foundation and bass line in musical ensembles. The tuba is commonly used in orchestras, marching bands, and brass bands, adding depth and richness to the overall sound.</string>
+
+    <!--Content Description-->
+    <string name="content_cart_image">Cart Image</string>
+    <string name="content_order_button">Order Button</string>
+    <string name="content_image_product">Image Product</string>
+    <string name="content_icon_search">Icon Search</string>
+    <string name="content_detail_image">Image Detail</string>
+</resources>
